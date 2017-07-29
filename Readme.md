@@ -1,1 +1,1 @@
-# Макет "Gllacy" от HTML-Academy
+# Адаптивная версия макета "Gllacy" от HTML-Academy
